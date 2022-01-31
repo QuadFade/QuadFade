@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @QuadFade
 - 👀 I’m interested in Java, C#, C++, and JavaScript languages.
 - 🌱 I’m currently learning JavaScript and C# utilizing HackerRank. 
-- 💞️ Currently looking for work. 
+- 💞️ I'm currently looking for work. 
 - 📫 I can be reached here, or https://www.linkedin.com/in/john-w-fade-iv/
 
 <!---
